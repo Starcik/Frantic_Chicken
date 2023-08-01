@@ -1,7 +1,10 @@
 # Frantic Chicken
 The Unity Project from my Summer Internship in [__The Game Circle__](https://www.thegamecircle.com/)
 
+<img src="FranticChickenGameIcon.png" width="240px" height="240px">
+
 ## Hyper-casual Runner Game for Android Mobile Phones
+
 __Completion Time:__ 20 days
 
 __Programs Used:__
