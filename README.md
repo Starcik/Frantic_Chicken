@@ -12,9 +12,11 @@ __Programs Used:__
 * Blender
 * Visual Studio Code
 
-__Models and Animations__ by Alper Bozkurt and [Mixamo.com](https://www.mixamo.com/#/)
+__Models and Animations__ by Alper Bozkurt [(LinkedIn)](https://www.linkedin.com/in/benalperbozkurt/)
 
-__Sound Effects__ from [Freesound.org](https://freesound.org/) and [Pixabay.com](https://pixabay.com/)
+Some Animations from [Mixamo.com](https://www.mixamo.com/#/)
+
+Sound Effects from [Freesound.org](https://freesound.org/) and [Pixabay.com](https://pixabay.com/)
 
 __Assets Used:__
 * [Hypercasual - Runner Starter Kit](https://assetstore.unity.com/packages/templates/systems/hypercasual-runner-starter-kit-249286)
