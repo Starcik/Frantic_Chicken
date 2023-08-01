@@ -1,5 +1,5 @@
 # Frantic Chicken
-The Unity Project from my Summer Internship in [__The Game Circle__](https://www.thegamecircle.com/)
+Unity Project of Perihan Yıldız Topal from my Summer Internship in [__The Game Circle__](https://www.thegamecircle.com/)
 
 <img src="FranticChickenGameIcon.png" width="240px" height="240px">
 
