@@ -2,9 +2,8 @@
 My Unity Project from my Summer Internship in The Game Circle
 
 ## Hyper-casual Runner Game for Android
-Completion Time: 20 days
-Programs Used: Unity and Visual Studio Code
-
+#### Completion Time: 20 days
+#### Programs Used: Unity and Visual Studio Code
 ### Assets Used:
 * Hypercasual - Runner Starter Kit
 <https://assetstore.unity.com/packages/templates/systems/hypercasual-runner-starter-kit-249286>
