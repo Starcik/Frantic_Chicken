@@ -1,5 +1,5 @@
 # Frantic Chicken
-Unity Project of Perihan Yıldız Topal from my Summer Internship in [__The Game Circle__](https://www.thegamecircle.com/)
+Unity Project of [__Perihan Yıldız Topal__](www.linkedin.com/in/p-yildiz-topal) from my Summer Internship in [__The Game Circle__](https://www.thegamecircle.com/)
 
 <img src="FranticChickenGameIcon.png" width="240px" height="240px">
 
@@ -12,7 +12,7 @@ __Programs Used:__
 * Blender
 * Visual Studio Code
 
-__Models and Animations__ by Alper Bozkurt [(LinkedIn)](https://www.linkedin.com/in/benalperbozkurt/)
+__Models and Animations__ by [__Alper Bozkurt__](https://www.linkedin.com/in/benalperbozkurt/)
 
 Some Animations from [Mixamo.com](https://www.mixamo.com/#/)
 
