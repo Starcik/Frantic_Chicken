@@ -23,4 +23,4 @@ __Assets Used:__
 * [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 * [Free Double Sided Shaders](https://assetstore.unity.com/packages/vfx/shaders/free-double-sided-shaders-23087)
 * [GUI PRO Kit - Simple Casual](https://assetstore.unity.com/packages/2d/gui/icons/gui-pro-kit-simple-casual-203399)
-* [NaughtyAttributes] (https://assetstore.unity.com/packages/tools/utilities/naughtyattributes-129996)
+* [NaughtyAttributes](https://assetstore.unity.com/packages/tools/utilities/naughtyattributes-129996)
